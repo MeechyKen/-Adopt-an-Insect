@@ -1,0 +1,16 @@
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\Insect.csproj.AssemblyReference.cache
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\Insect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\Insect.AssemblyInfoInputs.cache
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\Insect.AssemblyInfo.cs
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\Insect.csproj.CoreCompileInputs.cache
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\bin\Debug\net5.0\Insect.exe
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\bin\Debug\net5.0\Insect.deps.json
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\bin\Debug\net5.0\Insect.runtimeconfig.json
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\bin\Debug\net5.0\Insect.runtimeconfig.dev.json
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\bin\Debug\net5.0\Insect.dll
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\bin\Debug\net5.0\Insect.pdb
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\Insect.dll
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\refint\Insect.dll
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\Insect.pdb
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\Insect.genruntimeconfig.cache
+C:\Users\adell\OneDrive\Desktop\Programming\Insect\Insect\obj\Debug\net5.0\ref\Insect.dll
